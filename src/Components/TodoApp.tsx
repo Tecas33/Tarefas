@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import { Plus, Trash2, Edit2, Check, X, ClipboardList } from 'lucide-react';
+import { useState, } from 'react';
+import { Plus, Trash2, Edit2, Check,  ClipboardList } from 'lucide-react';
 import type { Todo } from '../types/Todo'; // Importe sua interface
 
 export default function TodoApp() {
