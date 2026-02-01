@@ -1,8 +1,8 @@
-# 🚀 [Nome do seu Projeto]
+# Tarefas
 
-Uma aplicação de gerenciamento de [Descreva o que seu app gerencia, ex: tarefas/contatos] desenvolvida com **React**, **TypeScript** e **Tailwind CSS**. O foco principal deste projeto foi a implementação de um fluxo de CRUD completo, garantindo uma interface responsiva e um código tipado.
+Uma aplicação de gerenciamento de tarefas simples e inovadora desenvolvida com **React**, **TypeScript** e **Tailwind CSS**. O foco principal deste projeto foi a implementação de um fluxo de CRUD completo, garantindo uma interface responsiva e um código tipado.
 
-![Screenshot ou GIF do Projeto] (Opcional: coloque um link aqui)
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -29,5 +29,7 @@ A aplicação permite realizar as quatro operações básicas de um sistema (CRU
 ## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
+2. e faz um npm install
+3. Depois rodar npm run dev
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
